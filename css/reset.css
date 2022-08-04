@@ -1,0 +1,16 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+:root{
+	--cream-background: hsl(30, 38%, 92%);
+	--dark: hsl(158, 36%, 37%);
+	--white: hsl(0, 0%, 100%);
+	--very-dark-blue: hsl(212, 21%, 14%);
+	--dark-grayish-blue: hsl(228, 12%, 48%);
+	
+	--font-montserrat: 'Montserrat', sans-serif;
+	--font-fraunces: 'Fraunces', serif;
+}
